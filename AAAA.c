@@ -3,10 +3,10 @@
 int main()
 {
 
-  printf("khg");
 
 
-  printf("LIMCHANBIN");
+zzzzz
+
 
   return 0;
 }
