@@ -3,9 +3,7 @@
 int main()
 {
 
-
-
-zzzzz
+printf("집중세미나 만세~!");
 
 
   return 0;
