@@ -2,6 +2,7 @@
 
 int main()
 {
+  printf("khg");
 
-return 0;
+  return 0;
 }
